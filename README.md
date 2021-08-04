@@ -1,1 +1,1 @@
-# cgan_tidal_generation
+# Galactic Image Generator
